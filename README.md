@@ -1,4 +1,5 @@
-![Hello!](https://media.giphy.com/media/cat-lol-vFKqnCdLPNOK/giphy.gif)
+
+![Hello!](https://media.giphy.com/media/3ohhwG5kuFv7E8VC9O/giphy.gif)
 
 # Hey there! 👋 I'm Alfred Favour
 
@@ -27,18 +28,23 @@ Welcome to my colorful corner of the internet! I'm a web developer and AI enthus
 - **Problem Solving:** Debugging code and untangling tricky challenges with a sprinkle of creativity.
 - **Design Eye:** Adding a touch of aesthetic flair to my projects because hey, beauty matters!
 
+## Current Learning Journeys
+
+- 📚 **Udacity Intro To Gen AI:** Delving deep into the world of artificial intelligence to unlock its limitless potential.
+- 🔧 **The Odin Project:** Mastering full-stack JavaScript development with hands-on projects and real-world applications.
+- 🛠️ **GitHub Campus Pack:** Leveraging the power of GitHub tools and resources to enhance my coding skills and collaboration capabilities.
 
 
 ## Education
 
 - **Bachelor of Science in Computer Engineering**  
   Ladoke Akintola University Of Technology  
-  Expected Graduation: [2027]
+  Expected Graduation: 2027
 
 ## Let's Connect
 
-- [GitHub](github.com/freddyfavour)
-- [LinkedIn](github.com/freddyfavour)
+- [GitHub](https://github.com/freddyfavour)
+- [LinkedIn](https://www.linkedin.com/in/alfredthedev)
 - [Portfolio Website](TechFred.com)
 - [Email](mailto:alfredfavour76@gmail.com)
 
