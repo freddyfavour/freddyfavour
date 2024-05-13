@@ -1,4 +1,4 @@
-![Hello!](https://media.giphy.com/media/3ohhwG5kuFv7E8VC9O/giphy.gif)
+![Hello!](https://media.giphy.com/media/cat-lol-vFKqnCdLPNOK/giphy.gif)
 
 # Hey there! 👋 I'm Alfred Favour
 
