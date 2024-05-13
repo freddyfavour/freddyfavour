@@ -14,14 +14,14 @@ Welcome to my colorful corner of the internet! I'm a web developer and AI enthus
 ## Skills and Expertise
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![HTML](https://iconscout.com/icons/html-logo)
+![CSS](https://iconscout.com/icons/css)
+![JavaScript](https://iconscout.com/icons/javascript)
 ![React.js](https://img.shields.io/badge/-React.js-blueviolet)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 ![Git](https://img.shields.io/badge/-Git-orange)
-![GitHub]([https://img.shields.io/badge/-GitHub-black](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0HSka6NNtzSNLajEAf9F1N&ust=1715701378899000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODcgez7ioYDFQAAAAAdAAAAABAE))
+![GitHub](https://img.shields.io/badge/-GitHub-black)
 
 ### Other Skills
 - **Technical Writing:** Turning complex concepts into engaging articles and tutorials.
@@ -42,7 +42,6 @@ Welcome to my colorful corner of the internet! I'm a web developer and AI enthus
   Expected Graduation: 2027
 
 ## Let's Connect
-
 
 - [GitHub](https://github.com/freddyfavour)
 - [LinkedIn](https://www.linkedin.com/in/alfredthedev)
