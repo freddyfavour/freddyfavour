@@ -18,7 +18,7 @@ Welcome to my colorful corner of the internet! I'm a web developer and AI enthus
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 ![Git](https://img.shields.io/badge/-Git-orange)
-![GitHub]([https://img.shields.io/badge/-GitHub-black])
+![GitHub](https://img.shields.io/badge/-GitHub-black)
 
 ### Other Skills
 - **Technical Writing:** Turning complex concepts into engaging articles and tutorials.
