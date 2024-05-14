@@ -1,6 +1,3 @@
-
-![Hello!](https://media.giphy.com/media/3ohhwG5kuFv7E8VC9O/giphy.gif)
-
 # Hey there! 👋 I'm Alfred Favour
 
 Welcome to my colorful corner of the internet! I'm a web developer and AI enthusiast hailing from Nigeria. My journey in the tech world is a mix of curiosity, creativity, and a whole lot of coffee-fueled coding sessions.
