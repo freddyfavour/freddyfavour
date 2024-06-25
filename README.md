@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alfred Favour
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Alfred Favour
 =====================================================================================================================================
 
-Web Developer and Computer Engineering Undergrad🎓
+Web Developer,Polyglot and Computer Engineering Undergrad🎓
 --------------------------------------------------
 
 I'm a web developer and AI enthusiast hailing from Nigeria. From frontend magic to backend wizardry, I love crafting digital experiences that leave a lasting impression. Always eager to dive into new technologies and learn something exciting.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [TechFred.com](http://TechFred.com)
+* 🖥️  See my portfolio at???
 * ✉️  You can contact me at [alfredfavour76@gmail.com](mailto:alfredfavour76@gmail.com)
-* 🧠  I'm learning React and NextJS as well as AI and ML
+* 🧠  I'm learning React and NextJS as well as ML
 * 🤝  I'm open to collaborating on all forms of frontend projects 🥰
 * ⚡  I love meeting new people
 
