@@ -7,7 +7,6 @@ Web Developer,Polyglot and Computer Engineering Undergrad🎓
 I'm a web developer and AI enthusiast hailing from Nigeria. From frontend magic to backend wizardry, I love crafting digital experiences that leave a lasting impression. Always eager to dive into new technologies and learn something exciting.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at???
 * ✉️  You can contact me at [alfredfavour76@gmail.com](mailto:alfredfavour76@gmail.com)
 * 🧠  I'm learning React and NextJS as well as ML
 * 🤝  I'm open to collaborating on all forms of frontend projects 🥰
