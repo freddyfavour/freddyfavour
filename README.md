@@ -8,7 +8,7 @@ I'm a web developer and AI enthusiast hailing from Nigeria. From frontend magic 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [alfredfavour76@gmail.com](mailto:alfredfavour76@gmail.com)
-* 🧠  I'm learning React and NextJS as well as ML
+* 🧠  I'm learning about NextJS as well as ML
 * 🤝  I'm open to collaborating on all forms of frontend projects 🥰
 * ⚡  I love meeting new people
 
