@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Alfred Favour
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It's Alfred Favour
 =====================================================================================================================================
 
-Web Developer,Polyglot and Computer Engineering Undergrad🎓
+Web Developer and Computer Engineering Undergrad🎓
 --------------------------------------------------
 
 I'm a web developer and AI enthusiast hailing from Nigeria. From frontend magic to backend wizardry, I love crafting digital experiences that leave a lasting impression. Always eager to dive into new technologies and learn something exciting.
