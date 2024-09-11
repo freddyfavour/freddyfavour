@@ -1,8 +1,20 @@
 # Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It's Favour Alfred
+
+### 🕵️‍♂️ **Classified: Web Developer & Computer Engineering Undergrad**
+### Codename: Agent Alfred. 
+Agent Alfred, operating from Nigeria. Specializing in advanced web development and AI technologies. Employing discreet frontend techniques to engineer superior digital solutions. Always vigilant for the next high-impact technological breakthrough—be it covert AI advancements, classified ML innovations, or state-of-the-art technologies.
+
 ---
 
-### 🎓 **Web Developer and Computer Engineering Undergrad**
-I'm Alfred, a web developer and AI enthusiast from Nigeria. Combining frontend magic ✨ with backend wizardry 🧙‍♂️ to create amazing digital experiences. Always curious about the next big thing in tech, whether it's AI, ML, or exploring cutting-edge tools.
+### 📊 **Data File Access**
+</br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=freddyfavour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 20px;" />
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIyenA1eXdzMnNpcjB5NGxpZG54MXcxaGEyMHBvMm1sbmJpMmwwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.webp" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freddyfavour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-right: 20px;" />
+
+</p>
+</br>
 
 ---
 
@@ -29,24 +41,13 @@ Profile Active Since: "2023" (According to 🕵️‍♀️)
 Project Status: Always working on something mind-blowing ⚙️
 Status: Active
 ```
----
-
-### 📊 **Data File Access**
-</br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=freddyfavour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 20px;" />
-  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIyenA1eXdzMnNpcjB5NGxpZG54MXcxaGEyMHBvMm1sbmJpMmwwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.webp" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freddyfavour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-right: 20px;" />
-
-</p>
-</br>
 
 ---
 
 ### 🎵 **Playlist Peek 🫣**
 </br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jtim6pthv2xquertnnvs3sctue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jtim6pthv2xquertnnvs3sctue&redirect=true) ![Peeking](https://media.tenor.com/C0445FaLU68AAAAi/hi-couple.gif) [![Spotify Current Song](https://spotify-recently-played-readme.vercel.app/api?user=31jtim6pthv2xquertnnvs3sctue&count=7&width=300)](https://open.spotify.com/user/31jtim6pthv2xquertnnvs3sctue)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jtim6pthv2xquertnnvs3sctue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jtim6pthv2xquertnnvs3sctue&redirect=true) ![Peeking](https://media.tenor.com/C0445FaLU68AAAAi/hi-couple.gif)
 
 ---
 
@@ -71,4 +72,4 @@ Status: Active
   <a href="https://www.x.com/AlfredThedev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
-</p>\
+</p>
