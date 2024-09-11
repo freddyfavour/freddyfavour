@@ -1,40 +1,74 @@
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It's Alfred Favour
-=====================================================================================================================================
+# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It's Favour Alfred
+---
 
-Web Developer and Computer Engineering Undergrad🎓
---------------------------------------------------
+### 🎓 **Web Developer and Computer Engineering Undergrad**
+I'm Alfred, a web developer and AI enthusiast from Nigeria. Combining frontend magic ✨ with backend wizardry 🧙‍♂️ to create amazing digital experiences. Always curious about the next big thing in tech, whether it's AI, ML, or exploring cutting-edge tools.
 
-I'm a web developer and AI enthusiast hailing from Nigeria. From frontend magic to backend wizardry, I love crafting digital experiences that leave a lasting impression. Always eager to dive into new technologies and learn something exciting.
+---
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me via my [email](mailto:alfredfavour76@gmail.com)
-* 🧠  I'm learning about AI and ML
-* 🤝  I'm open to collaborating on projects 🥰
-* ⚡  I love meeting new people
+### 🕵️‍♂️ **Top Secret FBI File**
+```yaml
+Name: Alfred "FreddyFavour"
+Aliases: TheDev, Code Wizard, Bug Hunter
+Location: 🌍 Nigeria
+Skills:
+  - JavaScript 🟩
+  - Frontend Wizardry ✨
+  - API Whisperer 🔥
+  - C Programming 🧠
+  - Full Stack Sorcery 🔮
+Currently Learning: AI and Machine Learning 🤖
+Hobbies:
+  - Building Digital Realities 🌐
+  - Learning multiple programming and human languages 🧩
+  - Exploring New Tech Horizons 🚀
+Threat Level: 🟥🟥🟥🟥⬜ (4 out of 5 - Potential Cyber Hero)
+Clearance Level: Omega-5 (Classified)
+Contact: [alfredfavour76@gmail.com](mailto:alfredfavour76@gmail.com)
+Profile Active Since: "2023" (According to 🕵️‍♀️)
+Project Status: Always working on something mind-blowing ⚙️
+Status: Active
+```
+---
 
+### 📊 **Data File Access**
+</br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=freddyfavour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freddyfavour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" style="margin-right: 20px;" />
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIyenA1eXdzMnNpcjB5NGxpZG54MXcxaGEyMHBvMm1sbmJpMmwwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.webp" />
+  <img src="https://github-readme-stats.vercel.app/api?username=freddyfavour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 20px;" />
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIyenA1eXdzMnNpcjB5NGxpZG54MXcxaGEyMHBvMm1sbmJpMmwwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.webp" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freddyfavour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-right: 20px;" />
+
 </p>
+</br>
 
-### Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
+---
 
-### Socials
+### 🎵 **Playlist Peek 🫣**
+</br>
 
-<p align="left"> <a href="https://www.facebook.com/fred_thedev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/freddyfavour" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/fred_thedev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alfredthedev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/AlfredThedev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jtim6pthv2xquertnnvs3sctue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jtim6pthv2xquertnnvs3sctue&redirect=true) ![Peeking](https://media.tenor.com/C0445FaLU68AAAAi/hi-couple.gif) [![Spotify Current Song](https://spotify-recently-played-readme.vercel.app/api?user=31jtim6pthv2xquertnnvs3sctue&count=7&width=300)](https://open.spotify.com/user/31jtim6pthv2xquertnnvs3sctue)
+
+---
+
+### 🌐 **Social Media**
+<p align="left">
+  <a href="https://www.facebook.com/fred_thedev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/freddyfavour" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.instagram.com/fred_thedev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alfredthedev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.x.com/AlfredThedev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+</p>\
