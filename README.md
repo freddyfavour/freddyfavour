@@ -10,7 +10,7 @@ Operating from Nigeria, Agent Alfred excels in crafting secure and efficient fro
 </br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=freddyfavour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin-right: 20px;" />
-  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIyenA1eXdzMnNpcjB5NGxpZG54MXcxaGEyMHBvMm1sbmJpMmwwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.webp" />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjIyenA1eXdzMnNpcjB5NGxpZG54MXcxaGEyMHBvMm1sbmJpMmwwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KJWgJrUbqPsB2gvSIt/giphy.webp" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freddyfavour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-right: 20px;" />
 
 </p>
