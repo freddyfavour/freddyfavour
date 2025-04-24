@@ -8,7 +8,7 @@ Operating from Nigeria, Agent Alfred excels in crafting secure and efficient fro
 ### 📊 **Data File Access**
 </br>
   
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Ffreddyfavourcf1b8.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Ffreddyfavourb94dd.png?alt=media)
 
 ---
 
