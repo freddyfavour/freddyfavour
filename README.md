@@ -11,7 +11,7 @@ Let’s build something that matters.
 ---
 </br>
   
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Ffreddyfavourb94dd.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Ffreddyfavoure4331.png?alt=media)
 
 ---
 
