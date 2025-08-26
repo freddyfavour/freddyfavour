@@ -20,4 +20,4 @@ Ship products that feel **buttery smooth**, solve real problems, and inspire peo
 
 ---
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Ffreddyfavoure4331.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Ffreddyfavourf41e8.png?alt=media)
